@@ -287,7 +287,7 @@ return [
              */
             'flags' => [],
             'cacheMetadata' => true,
-            'log' => true,
+            'log' => false,
 
             /*
              * Set identifier quoting to true if you are using reserved words or
